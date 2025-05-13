@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# HR Dashboard
 
 Here'a the screenshots of the dashboard
 ![Overview](/images/Overview.png)
